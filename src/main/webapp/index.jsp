@@ -201,7 +201,7 @@ Add Student
 <div class="view">
 
 <a href="student?action=list">
-View Students
+View All Students
 </a>
 
 </div>
